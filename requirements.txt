@@ -1,3 +1,5 @@
 Django==4.2.7
 Pylint==3.0.2
 DjangoRestFramework==3.14.0
+drf-yasg==1.21.7
+django-filter==23.5
